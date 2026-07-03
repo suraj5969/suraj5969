@@ -13,7 +13,7 @@
 
 ### :blush: A little about me...
 
-- Full Stack AI Engineer enjoying building end-to-end web and AI applications.
+- <b> Full Stack AI Engineer <b> enjoying building end-to-end web and AI applications.
 
 - Currently building agentic AI/ML systems.
 
@@ -35,7 +35,7 @@
 
   - A lot of other things :)
 
-- Previously worked at [LST Consultancy](https://lstconsultancy.com/) as Founding Engineer
+- Previously was Founding Engineer at [LST Consultancy](https://lstconsultancy.com/)
   - Delivered six green-field web apps for legal-tech client LexisNexis and others.
 
   - Designed and built TaskSprint, a project-management SaaS for real-time collaboration and time-tracking features
