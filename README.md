@@ -29,7 +29,7 @@
 
   - Worked on customizable dashboard that lets customers create and visualise safety data and graphs in real time.
 
-  - Built a configurable form-builder to create custom workflows for company’s new [process-safety solution](#https://www.safetyconnect.io/process-safety)
+  - Built a configurable form-builder to create custom workflows for company’s new [process-safety solution](https://www.safetyconnect.io/process-safety)
 
   - Authored a rewrite of frontend UI for modern look and better accessibility with performant, and maintainable code
 
