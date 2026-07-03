@@ -13,7 +13,7 @@
 
 ### :blush: A little about me...
 
-- <b> Full Stack AI Engineer <b> enjoying building end-to-end web and AI applications.
+- <b> Full Stack AI Engineer </b> enjoying building end-to-end web and AI applications.
 
 - Currently building agentic AI/ML systems.
 
