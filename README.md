@@ -15,7 +15,7 @@
 
 - <b> Full Stack AI Engineer </b> enjoying building end-to-end web and AI applications.
 
-- Currently building agentic AI/ML systems.
+- Currently learning agentic AI/ML systems.
 
 - Loves to read books, being healthy and spending time with my family.
 
