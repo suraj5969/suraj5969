@@ -38,7 +38,7 @@
 - Previously was Founding Engineer at [LST Consultancy](https://lstconsultancy.com/)
   - Delivered six green-field web apps for legal-tech client LexisNexis and others.
 
-  - Designed and built TaskSprint, a project-management SaaS for real-time collaboration and time-tracking features
+  - Designed and built [TaskSprint](https://tasksprint.app/), a project-management SaaS for real-time collaboration and time-tracking features
 
 - Also worked as freelance developer
   - [Switch Pro Solutions](https://switchpro.in/)
