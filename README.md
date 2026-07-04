@@ -7,7 +7,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/surajgupta_59?label=Follow)](https://twitter.com/intent/follow?screen_name=surajgupta_59) &nbsp;
-[![Linkedin: Suraj](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-gupta59/)](https://www.linkedin.com/in/suraj-gupta59/) &nbsp;
+[![Linkedin: Suraj](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-gupta59/)](https://www.linkedin.com/in/suraj-gupta59/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/suraj5969) &nbsp;
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://surajgupta.dev/)](https://surajgupta.dev/)
 
