@@ -47,6 +47,3 @@
 
 
 💬  Ask me about anything. I am happy to help!
-
-<h1 align="center">&nbsp;</h1>
-
