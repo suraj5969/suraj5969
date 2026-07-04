@@ -15,7 +15,7 @@
 
 - <b> Full Stack AI Engineer </b> enjoying building end-to-end web and AI applications.
 
-- Currently learning agentic AI/ML systems.
+- Now specialising in Al-powered product development, technical leadership, and developer tooling.
 
 - Loves to read books, being healthy and spending time with my family.
 
